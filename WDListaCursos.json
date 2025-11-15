@@ -11,18 +11,18 @@
  
     },
     {
-        "id": 2,
-         "titulo": "Curso 2022/23",
+        "id": 3,
+        "titulo": "Curso 2022/23",
         "url": "https://afrikiudl.github.io/proyectoswd2223/"
 
     },
     {
-        "id": 3,
+        "id": 4,
         "titulo": "Curso 2023/24",
         "url": "https://afrikiudl.github.io/proyectoswd2324"
     },
     {
-        "id": 4,
+        "id": 5,
         "titulo": "Curso 2024/25",
         "url": "https://afrikiudl.github.io/proyectoswd2425"
     }
