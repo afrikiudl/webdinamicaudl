@@ -1,8 +1,14 @@
 [{
         "id": 1,
-        "titulo": "Curso 2023/24",
-        "url": "https://afrikiudl.github.io/proyectoswd2324"
+        "titulo": "Curso 2020/21",
+        "url": "https://afrikiudl.github.io/proyectoswd2021"
 
+    },
+ {
+        "id": 2,
+		"titulo": "Curso 2021/22",
+        "url": "https://afrikiudl.github.io/proyectoswd2022/"
+ 
     },
     {
         "id": 2,
@@ -12,13 +18,13 @@
     },
     {
         "id": 3,
- 		"titulo": "Curso 2021/22",
-        "url": "https://afrikiudl.github.io/proyectoswd2022/"
+        "titulo": "Curso 2023/24",
+        "url": "https://afrikiudl.github.io/proyectoswd2324"
     },
     {
         "id": 4,
-        "titulo": "Curso 2020/21",
-        "url": "https://afrikiudl.github.io/proyectoswd2021"
+        "titulo": "Curso 2024/25",
+        "url": "https://afrikiudl.github.io/proyectoswd2425"
     }
 
 ]
